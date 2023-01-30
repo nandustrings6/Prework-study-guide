@@ -15,8 +15,6 @@ N/A
 
 This webpage can be used by anyone who wants to know basics of coding. 
 
-![alt text](assets/images/screenshot.png)
-
 ## Credits
 
 N/A
